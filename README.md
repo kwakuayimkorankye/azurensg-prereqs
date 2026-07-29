@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Azure_Logo.svg" alt="Microsoft Azure"/>
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2685c98a-c05d-4953-92e6-964e46c91008" />
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
